@@ -2,6 +2,6 @@
 
 This repository contains examples of infrastructure components configured to deploy Hatchet workers or configure features:
 
-Test 4
+Test 5
 
 - [SNS -> Hatchet -> ECS](./sns-ecs-example/)
